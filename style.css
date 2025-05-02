@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 20px;
+    margin: 4px;
+    text-align: left;
+    size: 18px;
+    background-color: #1f2937;
+    
+}
+.parent a{
+    justify-content: space-between;
+    text-align: right;
+    padding: 4px;
+    color: #fff;
+}
+.parent1 h2{
+ text-align: left; 
+ size: 48px;  
+ color: #f9faf8;
+ font-weight:900px ;
+}
+.parent1 p{
+    size: 18px;
+    color: #E5E7Eb;
+}
+.parent1 button{
+    color: #f5f5f5;
+    background-color: #3882f6;
+    size: 20px;
+}
+.body{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
